@@ -121,7 +121,7 @@ public class JDialogAddBookPhoto extends javax.swing.JDialog {
         getContentPane().add(jTextFieldAuthor, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 125, 410, -1));
 
         jLabel10.setFont(new java.awt.Font("Courier New", 0, 14)); // NOI18N
-        jLabel10.setText("Price");
+        jLabel10.setText("Pricee");
         getContentPane().add(jLabel10, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 237, 100, -1));
 
         jTextFieldPrice.setFont(new java.awt.Font("Courier New", 0, 14)); // NOI18N
